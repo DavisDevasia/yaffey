@@ -11,9 +11,9 @@ make
 mv yaffey.app /Applications/
 ```
 
-### Building Yaffey on Ubuntu:
+### Building Yaffey on Ubuntu 18.04:
 ```sh
-sudo apt-get install qt-sdk
+sudo apt-get install libqt4-dev
 git clone https://github.com/DavisDevasia/yaffey
 vi yaffey/yaffs2/yaffs_guts.h
 ```
