@@ -1,7 +1,7 @@
 # Yaffey
 Automatically exported from code.google.com/p/yaffey
 
-##  Building Yaffey on Mac:
+###  Building Yaffey on Mac:
 ```sh
 brew install qt #install qt version 4.x
 git clone https://github.com/danielkutik/yaffey.git
